@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8647999266",
+    "project_id": "rent-application-dc48f",
+    "storage_bucket": "rent-application-dc48f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8647999266:android:db7f8fc6a9eb6529bc6f7b",
+        "android_client_info": {
+          "package_name": "com.example.rent_application1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1t8SsY6Le6zHbtFH67sO1aA6TYevzLYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
